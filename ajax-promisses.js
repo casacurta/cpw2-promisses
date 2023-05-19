@@ -23,6 +23,7 @@ async function myRequest(method,url){
 async function main(){
     try {
         let abjJason = await myRequest('GET','data.json');
+        console.log(objJson);
     } catch (error) {
         console.log(error);
     }
