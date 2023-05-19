@@ -1,4 +1,4 @@
-function myRequest(method,url){
+async function myRequest(method,url){
     return new Promise((resolve,reject) => {
         // Instanciando o objeto XMLHttpRequest
         let xhr = new XMLHttpRequest();
@@ -18,4 +18,12 @@ function myRequest(method,url){
         // Enviando a requisição
         xhr.send();
     });
+}
+
+async function main(){
+    try {
+        let abjJason = await myRequest('GET','data.json');
+    } catch (error) {
+        console.log(error);
+    }
 }

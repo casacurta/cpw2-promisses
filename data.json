@@ -1,20 +1,20 @@
 {
     "natureza": [
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/praia-tropical_74190-188.jpg", "name": "Pinguim"},
-      {"imagemUrl": "https://img.freepik.com/fotos-premium/rochas-na-praia-do-amado-portugal_100655-714.jpg", "name": "Gato 2"},
-      {"imagemUrl": "https://img.freepik.com/fotos-premium/linda-praia-tropical_263512-1009.jpg", "name": "Guaxinim"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/mar-e-praia_1203-3516.jpg", "name": "Leão"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/bela-praia-tropical-e-mar_74190-6804.jpg", "name": "Pássaro"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/bonita_1203-2633.jpg", "name": "Tigre"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/bela-praia-tropical-e-mar-com-coqueiro-na-ilha-paradisiaca_74190-2206.jpg", "name": "Girafa"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/cascata-barco-limpo-china-natural-rural_1417-1356.jpg", "name": "Elefante"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/erawan-waterfall-nivel-3-no-parque-nacional-em-kanchanaburi-tailandia_554837-189.jpg", "name": "Macaco"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/pier-em-um-lago-em-hallstatt-austria_181624-44201.jpg", "name": "Tigre"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/arco-famoso-em-vallonpontd-arc-ardeche-franca_268835-3941.jpg", "name": "Girafa"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/cena-tranquila-reflete-beleza-natural-ao-ar-livre-gerada-por-ia_188544-15177.jpg", "name": "Elefante"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/foto-vertical-do-lago-marian-e-montanhas-na-nova-zelandia_181624-35958.jpg", "name": "Macaco"},
-      {"imagemUrl": "https://img.freepik.com/fotos-premium/casal-vendo-a-paisagem-da-vila-de-santa-maddalena-nas-dolomitas-italia-vila-de-santa-magdalena_677754-7265.jpg", "name": "Macaco"},
-      {"imagemUrl": "https://img.freepik.com/fotos-gratis/paisagem-de-nevoeiro-matinal-e-montanhas-com-baloes-de-ar-quente-ao-nascer-do-sol_335224-794.jpg", "name": "Macaco"},
-      {"imagemUrl": "https://img.freepik.com/fotos-premium/lago-em-paisagem-alpina_173770-996.jpg", "name": "Macaco"}
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/praia-tropical_74190-188.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-premium/rochas-na-praia-do-amado-portugal_100655-714.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-premium/linda-praia-tropical_263512-1009.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/mar-e-praia_1203-3516.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/bela-praia-tropical-e-mar_74190-6804.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/bonita_1203-2633.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/bela-praia-tropical-e-mar-com-coqueiro-na-ilha-paradisiaca_74190-2206.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/cascata-barco-limpo-china-natural-rural_1417-1356.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/erawan-waterfall-nivel-3-no-parque-nacional-em-kanchanaburi-tailandia_554837-189.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/pier-em-um-lago-em-hallstatt-austria_181624-44201.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/arco-famoso-em-vallonpontd-arc-ardeche-franca_268835-3941.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/cena-tranquila-reflete-beleza-natural-ao-ar-livre-gerada-por-ia_188544-15177.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/foto-vertical-do-lago-marian-e-montanhas-na-nova-zelandia_181624-35958.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-premium/casal-vendo-a-paisagem-da-vila-de-santa-maddalena-nas-dolomitas-italia-vila-de-santa-magdalena_677754-7265.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-gratis/paisagem-de-nevoeiro-matinal-e-montanhas-com-baloes-de-ar-quente-ao-nascer-do-sol_335224-794.jpg"},
+      {"imagemUrl": "https://img.freepik.com/fotos-premium/lago-em-paisagem-alpina_173770-996.jpg"}
     ]
   }
