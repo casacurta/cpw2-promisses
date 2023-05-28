@@ -1,3 +1,5 @@
+// PROMISSES
+
 async function myRequest(method,url){
     return new Promise((resolve,reject) => {
         // Instanciando o objeto XMLHttpRequest
@@ -24,6 +26,9 @@ async function main(){
     try {
         let abjJason = await myRequest('GET','data.json');
         console.log(objJson);
+        //escolhe a imagem
+        let img = objJson[Math.floor(Math.random()*objJson.length)];
+        addImage(img);
     } catch (error) {
         console.log(error);
     }
